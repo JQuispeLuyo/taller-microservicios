@@ -7,3 +7,4 @@
 - Spring Security
 - Kafka
 - Cassandra
+- Hystrix
